@@ -1,0 +1,7 @@
+zookeeper Basics
+
+https://docs.google.com/document/d/1Yjh8weGG2thO2s55U-D9AFPUSMm-7bgEjlEXOHLcNwI/edit?usp=sharing
+
+Zookeeper Installation
+
+https://docs.google.com/document/d/1yo0ip3FxaNsCO2Q8CWZpcxI3zN1wataZizzGm0cRQK4/edit?usp=sharing
