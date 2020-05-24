@@ -1,0 +1,9 @@
+Hadoop single-node cluster
+
+https://docs.google.com/document/d/1Ip3tosvjboduoqplQs60zWuwnBXto2QxUfc1cJ2hNVY/edit?usp=sharing
+
+Hadoop Multi-Node cluster
+
+https://docs.google.com/document/d/1Zbg8fc6o7MJK0ptc4C5JKCwM2c99MxjEXYI0EGdH46I/edit?usp=sharing
+
+
