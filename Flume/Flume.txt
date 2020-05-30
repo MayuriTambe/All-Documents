@@ -1,0 +1,12 @@
+#Apache Flume
+
+https://docs.google.com/document/d/1U--RgpmEcAMPhX9_F2hFAw8eOJ9UI_8nDt4l2mL5KsY/edit?usp=sharing
+
+#Apache Flume Installaton
+
+https://docs.google.com/document/d/1O19dz-jXqeX10uiEtjaKONJsU-i3njZh9FBnU4BY0rA/edit?usp=sharing
+
+#Apache Flume Twitter Setup
+
+https://docs.google.com/document/d/1qrVde8-cu60y0S-Y2LCc_OKqFEb7ycjGgsLBJvZdn_4/edit?usp=sharing
+
